@@ -1,6 +1,7 @@
 {
   "author" : "Tripod",
-  "description" : "Increases drops rates of the Basic Treasure pool for the following monster categories: \n- basicMonsterTreasure \n- noMeatMonsterTreasure \n- weaklingMonsterTreasure \n- flyingMonsterTreasure \n- robotTreasure \n- largefishtreasure \n\nChanges made to monster drops: \nmoney: -4% \nbasicTreasure: +4% \n\nChanges made to Basic Treasure pool: \nchestMoney: -12%\nthrownWeapon: -4%\nweapon: +5%\nshield: +4%\nmanipulatormodule: +1%\ntechcard: +1%\nupgrademodule: +1%\ninstrument: +2%\ncostume: +2%\n\nResulting Basic Treasure pool: \nchestMoney: 20%\nhealingItem: 16%\nore: 16%\nthrownWeapon: 8%\nweapon: 10%\nshield: 4%\ntool: 5%\nmanipulatormodule: 9%\ntechcard: 4%\nupgrademodule: 2%\ninstrument: 3%\ncostume: 3%",
+  "description" : "Increases the drop rate of the Basic Treasure pool (x5) for the following monster categories: \n- basicMonsterTreasure \n- noMeatMonsterTreasure \n- weaklingMonsterTreasure \n- flyingMonsterTreasure \n- robotTreasure \n- largefishtreasure \n\nRefer to the image for a summary of changes.\n\nSource: https://github.com/rtripod/starbound-mods/tree/master/x5_Basic_Drop_Rates_v1.0.1",
+  "friendlyName" : "x5 Basic Drop Rates",
   "link" : "steam://url/CommunityFilePage/729731141",
   "name" : "x5 Basic Drop Rates",
   "steamContentId" : "729731141",
