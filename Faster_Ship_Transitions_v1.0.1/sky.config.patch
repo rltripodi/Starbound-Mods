@@ -1,0 +1,8 @@
+[
+	{ "op": "replace", "path": "/speedupTimer", "value": 1.0 },
+	{ "op": "replace", "path": "/flyingTimer", "value": 2.0 },
+	{ "op": "replace", "path": "/slowdownTimer", "value": 1.0 },
+	
+	{ "op": "replace", "path": "/disembarkPath/0/time", "value": 2 },
+	{ "op": "replace", "path": "/arrivalPath/0/time", "value": 2 }
+]

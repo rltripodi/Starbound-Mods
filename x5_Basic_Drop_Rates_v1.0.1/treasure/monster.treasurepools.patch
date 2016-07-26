@@ -1,0 +1,62 @@
+[
+	{
+		"op": "replace",
+		"path": "/basicMonsterTreasure/0/1/pool",
+		"value": [
+			{"weight" : 0.85, "pool" : "money"},
+			{"weight" : 0.10, "item" : "alienmeat"},
+			{"weight" : 0.05, "pool" : "basicTreasure"}
+		]
+	},
+	
+	{
+		"op": "replace",
+		"path": "/noMeatMonsterTreasure/0/1/pool",
+		"value": [
+			{"weight" : 0.95, "pool" : "money"},
+			{"weight" : 0.05, "pool" : "basicTreasure"}
+		]
+	},
+	
+	{
+		"op": "replace",
+		"path": "/weaklingMonsterTreasure/0/1/pool",
+		"value": [
+			{"weight" : 0.95, "pool" : "money"},
+			{"weight" : 0.05, "pool" : "basicTreasure"}
+		]
+	},
+	
+	{
+		"op": "replace",
+		"path": "/flyingMonsterTreasure/0/1/pool",
+		"value": [
+			{"weight" : 0.85, "pool" : "money"},
+			{"weight" : 0.10, "item" : "rawpoultry"},
+			{"weight" : 0.05, "pool" : "basicTreasure"}
+		]
+	},
+	
+	{
+		"op": "replace",
+		"path": "/robotTreasure/0/1/pool",
+		"value": [
+			{"weight" : 0.55, "pool" : "money"},
+			{"weight" : 0.10, "item" : "stickofram"},
+			{"weight" : 0.10, "item" : "siliconboard"},
+			{"weight" : 0.10, "item" : "smallbattery"},
+			{"weight" : 0.10, "item" : "wire"},
+			{"weight" : 0.05, "pool" : "basicTreasure"}
+		]
+	},
+	
+	{
+		"op": "replace",
+		"path": "/largefishtreasure/0/1/pool",
+		"value": [
+			{"weight" : 0.85, "pool" : "money"},
+			{"weight" : 0.10, "item" : [ "rawfish", 1]},
+			{"weight" : 0.05, "pool" : "basicTreasure"}
+		]
+	}
+]

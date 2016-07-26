@@ -1,0 +1,6 @@
+{
+  "author" : "Tripod",
+  "description" : "Decreases time taken to travel via ship and teleport.",
+  "name" : "Instant Warp",
+  "version" : "1.0"
+}

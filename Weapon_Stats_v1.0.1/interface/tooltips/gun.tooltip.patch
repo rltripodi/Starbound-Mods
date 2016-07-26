@@ -1,0 +1,62 @@
+[
+	{
+		"op": "replace",
+		"path": "/damageKindImage/position",
+		"value": [120, 97]
+	},
+	
+	{
+		"op": "add",
+		"path": "/levelLabel",
+		"value": {
+			"type" : "label",
+			"position" : [130, 134],
+			"hAnchor" : "right",
+			"wrapWidth" : 126
+		}
+	},
+	
+	{
+		"op": "add",
+		"path": "/damagePerEnergyTitleLabel",
+		"value": {
+			"type" : "label",
+			"position" : [9, 134],
+			"hAnchor" : "left",
+			"value" : ""
+		  }
+	},
+	
+	{
+		"op": "add",
+		"path": "/damagePerEnergyLabel",
+		"value": {
+			"type" : "label",
+			"position" : [9, 134],
+			"hAnchor" : "left",
+			"wrapWidth" : 126
+		  }
+	},
+	
+	{
+		"op": "add",
+		"path": "/damagePerSpeedTitleLabel",
+		"value": {
+			"type" : "label",
+			"position" : [9, 77],
+			"hAnchor" : "left",
+			"value" : "DPS:"
+		  }
+	},
+	
+	{
+		"op": "add",
+		"path": "/dpsLabel",
+		"value": {
+			"type" : "label",
+			"position" : [130, 77],
+			"hAnchor" : "right",
+			"wrapWidth" : 126
+		  }
+	}
+]

@@ -1,0 +1,9 @@
+{
+  "author" : "Tripod",
+  "description" : "Modifies the default ship locker and storage locker assets such that they have 256 and 128 slots respectively.\n\nTo enable the ability to label lockers and sort stored items: steam://url/CommunityFilePage/730394459",
+  "friendlyName" : "Larger Lockers",
+  "link" : "steam://url/CommunityFilePage/730388011",
+  "name" : "Larger Lockers",
+  "steamContentId" : "730388011",
+  "version" : "1.0.1"
+}

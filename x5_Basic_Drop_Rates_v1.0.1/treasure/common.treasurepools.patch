@@ -1,0 +1,20 @@
+[
+	{
+		"op": "replace",
+		"path": "/basicTreasure/0/1/pool",
+		"value": [
+			{"weight" : 0.20, "pool" : "chestMoney"},
+			{"weight" : 0.16, "pool" : "healingItem"},
+			{"weight" : 0.16, "pool" : "ore"},
+			{"weight" : 0.08, "pool" : "thrownWeapon"},
+			{"weight" : 0.10, "pool" : "weapon"},
+			{"weight" : 0.04, "pool" : "shield"},
+			{"weight" : 0.05, "pool" : "tool"},
+			{"weight" : 0.09, "item" : "manipulatormodule"},
+			{"weight" : 0.04, "item" : "techcard"},
+			{"weight" : 0.02, "item" : "upgrademodule"},
+			{"weight" : 0.03, "pool" : "instrument"},
+			{"weight" : 0.03, "pool" : "costume"}
+		]
+	}
+]

@@ -1,0 +1,34 @@
+[
+	{
+		"op": "add",
+		"path": "/levelLabel",
+		"value": {
+			"type" : "label",
+			"position" : [133, 150],
+			"hAnchor" : "right",
+			"wrapWidth" : 126
+		}
+	},
+	
+	{
+		"op": "add",
+		"path": "/damagePerSpeedTitleLabel",
+		"value": {
+			"type" : "label",
+			"position" : [16, 92],
+			"hAnchor" : "left",
+			"value" : "DPS:"
+		  }
+	},
+	
+	{
+		"op": "add",
+		"path": "/dpsLabel",
+		"value": {
+			"type" : "label",
+			"position" : [133, 92],
+			"hAnchor" : "right",
+			"wrapWidth" : 126
+		  }
+	}
+]
