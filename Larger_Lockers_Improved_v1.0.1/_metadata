@@ -1,6 +1,6 @@
 {
   "author" : "Tripod",
-  "description" : "Adds locker labelling and item sorting functions for containers ranging from 128 to 256 slots.\n\nNOTE: Requires \"Larger Lockers\" and \"Improved Containers\":\nsteam://url/CommunityFilePage/730388011\nsteam://url/CommunityFilePage/729427606",
+  "description" : "Adds locker labelling and item sorting functions for containers ranging from 128 to 256 slots.\n\nNOTE: Requires \"Larger Lockers\" and \"Improved Containers\".",
   "friendlyName" : "Larger Lockers Improved",
   "link" : "steam://url/CommunityFilePage/730394459",
   "name" : "Larger Lockers Improved",

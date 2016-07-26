@@ -1,6 +1,7 @@
 {
   "author" : "Tripod",
   "description" : "Decreases time taken to travel via ship and teleport.",
+  "friendlyName" : "Faster Ship Transitions",
   "link" : "steam://url/CommunityFilePage/729726251",
   "name" : "Faster Ship Transitions",
   "steamContentId" : "729726251",

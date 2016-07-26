@@ -1,6 +1,6 @@
 {
   "author" : "Tripod",
-  "description" : "Displays item level, DPS and damage per energy (DPE).\n\nBased only on raw damage. Abilites are not factored in.",
+  "description" : "Displays item level, DPS and damage per energy (DPE) for swords and guns.\n\nBased only on raw damage. Abilities and combo attacks are not factored in.",
   "friendlyName" : "Weapon Stats",
   "link" : "steam://url/CommunityFilePage/729726478",
   "name" : "Weapon Stats",
