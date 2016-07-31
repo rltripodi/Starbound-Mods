@@ -1,0 +1,11 @@
+{
+  "input" : [
+    { "item" : "genericstoragelocker", "count" : 1 },
+    { "item" : "upgrademodule", "count" : 1 }
+  ],
+  "output" : {
+    "item" : "genericshiplocker",
+    "count" : 1
+  },
+  "groups" : [ "craftingfurniture2", "storage", "all" ]
+}

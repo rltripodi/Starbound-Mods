@@ -1,30 +1,43 @@
 [
-{"op":"add","path":"/gui/sort","value":{
-	"type" : "button",
-	"base" : "/interface/inventory/sort.png",
-	"hover" : "/interface/inventory/sorthover.png",
-	"press" : "/interface/inventory/sortpress.png",
-	"position" : [311, 12]
-}},
-{"op":"add","path":"/gui/renameButton","value":{
+{"op":"add","path":"/gui/icRenameButton","value":{
 	"type" : "button",
 	"base" : "/interface/chests/rename.png",
 	"hover" : "/interface/chests/renamehover.png",
-	"pressed" : "/interface/chests/rename.png",
-	"position" : [5, 11]
+	"press" : "/interface/chests/rename.png",
+	"position" : [8, 12],
+	"disabled" : true,
+	"callback" : "ic.renameButton"
 }},
-{"op":"add","path":"/gui/renameBox","value":{
+{"op":"add","path":"/gui/icRenameBox","value":{
 	"type" : "textbox",
 	"regex" : "[a-zA-Z0-9 '-.()^;#]{0,30}",
 	"position" : [22, 14],
-	"maxWidth" : 110,
+	"maxWidth" : 80,
 	"callback" : "null",
-	"escapeKey" : "renameButton",
-	"enterKey" : "renameThis",
+	"escapeKey" : "ic.renameButton",
+	"enterKey" : "ic.renameThis",
 	"focus" : false,
 	"hint" : "Name",
 	"visible" : false
 }},
-{"op":"add","path":"/scriptWidgetCallbacks","value":["renameButton","renameThis","sort"]},
+{"op":"add","path":"/gui/icQuickstackButton","value":{
+	"type" : "button",
+	"base" : "/interface/chests/quickstack.png",
+	"hover" : "/interface/chests/quickstackhover.png",
+	"press" : "/interface/chests/quickstack.png",
+	"position" : [292, 12],
+	"disabled" : true,
+	"callback" : "ic.quickstack"
+}},
+{"op":"add","path":"/gui/icSortButton","value":{
+	"type" : "button",
+	"base" : "/interface/chests/sort.png",
+	"hover" : "/interface/chests/sorthover.png",
+	"press" : "/interface/chests/sortpress.png",
+	"position" : [311, 12],
+	"disabled" : true,
+	"callback" : "ic.sort"
+}},
+{"op":"add","path":"/scriptWidgetCallbacks","value":["ic.renameButton","ic.renameThis","ic.sort","ic.quickstack"]},
 {"op":"add","path":"/scripts","value":["/interface/chests/improvedcontainergui.lua"]}
 ]

@@ -1,0 +1,13 @@
+[
+	{
+		"op": "add",
+		"path": "/defaultBlueprints/tier1/-",
+		"value": { "item" : "genericshiplocker" }
+	},
+	
+	{
+		"op": "add",
+		"path": "/defaultBlueprints/tier1/-",
+		"value": { "item" : "genericstoragelocker" }
+	}
+]

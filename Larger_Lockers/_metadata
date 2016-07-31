@@ -1,9 +1,9 @@
 {
   "author" : "Tripod",
-  "description" : "Modifies the default ship locker and storage locker assets such that they have 256 and 128 slots respectively. \n\nTo enable the ability to label lockers and sort stored items, install \"Improved Containers\" and \"Larger Lockers Improved\"",
+  "description" : "Modifies the default ship locker and storage locker assets such that they have 256 and 128 slots respectively.\nNew: Adds generic ship locker and storage locker crafting from the industrial workbench.\n\nTo enable the ability to label lockers and sort stored items, install \"Improved Containers\" and \"Larger Lockers Improved\"\n\n[b]Installing the mod[/b]\n- The original contents of lockers will be unaffected. (This will simply add 192 additional slots to the ship locker and 80 to storage lockers)\n- Only works for base game races.\n- New: Generic ship locker and storage locker crafting now available from the industrial workbench.\n\n[b]Disabling the mod[/b]\n- The items stored in the additional slots will be dropped on the floor and can be picked up. (Items in the first 64 and 48 slots of the ship locker and storage lockers will be unaffected)\n- New: The generic ship lockers and storage lockers will be removed [b]possibly contained items too[/b].\n\nhttp://community.playstarbound.com/resources/larger-lockers.1755/",
   "friendlyName" : "Larger Lockers",
   "link" : "steam://url/CommunityFilePage/730388011",
   "name" : "Larger Lockers",
   "steamContentId" : "730388011",
-  "version" : "1.0.1"
+  "version" : "1.0.2"
 }
