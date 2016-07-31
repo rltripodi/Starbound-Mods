@@ -1,10 +1,10 @@
 {
   "author" : "Tripod",
-  "description" : "Adds locker labelling and item sorting functions for containers ranging from 128 to 256 slots.\nNew: Ability to quick-stack items.\n\nNOTE: Requires \"Larger Lockers\" and \"Improved Containers\".\n\nhttp://community.playstarbound.com/resources/larger-lockers-improved.3804/",
+  "description" : "Adds locker labelling and item sorting functions for containers ranging from 128 to 256 slots.\nNew: Ability to quick stack items.\n\nNOTE: Requires [url=http://steamcommunity.com/sharedfiles/filedetails/?id=730388011]Larger Lockers[/url] and [url=http://steamcommunity.com/sharedfiles/filedetails/?id=729427606]Improved Containers[/url]\n\nhttp://community.playstarbound.com/resources/larger-lockers-improved.3804/",
   "friendlyName" : "Larger Lockers Improved",
   "link" : "steam://url/CommunityFilePage/730394459",
   "name" : "Larger Lockers Improved",
+  "requires" : ["Larger Lockers"],
   "steamContentId" : "730394459",
-  "version" : "1.0.3",
-  "requires" : ["Larger Lockers"]
+  "version" : "1.0.3"
 }
