@@ -1,0 +1,9 @@
+{
+  "author" : "Tripod",
+  "description" : "Decreases the warp animation time when teleporting.\n\nOriginally included in [b]Fast Ship Transitions[/b] which has been split into [b]Faster Warp[/b] and [url=http://steamcommunity.com/sharedfiles/filedetails/?id=760998466]Faster Ship Travel[/url]",
+  "friendlyName" : "Faster Warp",
+  "link" : "steam://url/CommunityFilePage/729726251",
+  "name" : "Faster Warp",
+  "steamContentId" : "729726251",
+  "version" : "1.0.3"
+}

@@ -1,0 +1,9 @@
+{
+  "author" : "Tripod",
+  "description" : "Decreases time taken to travel to planets via ship.\n\nOriginally included in [b]Fast Ship Transitions[/b] which has been split into [b]Faster Ship Travel[/b] and [url=http://steamcommunity.com/sharedfiles/filedetails/?id=729726251]Faster Warp[/url]",
+  "friendlyName" : "Faster Ship Travel",
+  "link" : "steam://url/CommunityFilePage/760998466",
+  "name" : "Faster Ship Travel",
+  "steamContentId" : "760998466",
+  "version" : "1.0.0"
+}
